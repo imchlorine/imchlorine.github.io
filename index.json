@@ -6,14 +6,26 @@
         "description": ""
     },
     {
-        "uri": "https://rickyli.top/categories/",
-        "title": "Categories",
+        "uri": "https://rickyli.top/archive/",
+        "title": "Archives",
+        "tags": [],
+        "description": ""
+    },
+    {
+        "uri": "https://rickyli.top/archive/hello/",
+        "title": "Hello",
         "tags": [],
         "description": ""
     },
     {
         "uri": "https://rickyli.top/",
         "title": "Ricky",
+        "tags": [],
+        "description": ""
+    },
+    {
+        "uri": "https://rickyli.top/categories/",
+        "title": "Categories",
         "tags": [],
         "description": ""
     },

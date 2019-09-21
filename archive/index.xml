@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ricky</title>
-    <link>https://rickyli.top/</link>
-    <description>Recent content on Ricky</description>
+    <title>Archives on Ricky</title>
+    <link>https://rickyli.top/archive/</link>
+    <description>Recent content in Archives on Ricky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 21 Sep 2019 18:28:02 +1000</lastBuildDate>
     
-	<atom:link href="https://rickyli.top/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rickyli.top/archive/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
