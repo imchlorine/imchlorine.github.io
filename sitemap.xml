@@ -2,6 +2,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://rickyli.top/posts/my-first-post/</loc>
+    <lastmod>2020-02-21T13:43:28+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rickyli.top/posts/</loc>
+    <lastmod>2020-02-21T13:43:28+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://rickyli.top/</loc>
+    <lastmod>2020-02-21T13:43:28+11:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://rickyli.top/about/</loc>
     <lastmod>2019-09-21T18:28:02+10:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -17,13 +38,6 @@
   
   <url>
     <loc>https://rickyli.top/archive/hello/</loc>
-    <lastmod>2019-09-21T18:28:02+10:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://rickyli.top/</loc>
     <lastmod>2019-09-21T18:28:02+10:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
