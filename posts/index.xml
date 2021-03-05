@@ -1,22 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Ricky</title>
     <link>https://rickyli.top/posts/</link>
     <description>Recent content in Posts on Ricky</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Fri, 21 Feb 2020 13:43:28 +1100</lastBuildDate>
-    
-	<atom:link href="https://rickyli.top/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language>
+    <copyright>Ricky</copyright>
+    <lastBuildDate>Fri, 05 Mar 2021 16:31:20 +1100</lastBuildDate><atom:link href="https://rickyli.top/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>My First Post</title>
-      <link>https://rickyli.top/posts/my-first-post/</link>
-      <pubDate>Fri, 21 Feb 2020 13:43:28 +1100</pubDate>
+      <title>Hello</title>
+      <link>https://rickyli.top/posts/hello/</link>
+      <pubDate>Fri, 05 Mar 2021 16:31:20 +1100</pubDate>
       
-      <guid>https://rickyli.top/posts/my-first-post/</guid>
+      <guid>https://rickyli.top/posts/hello/</guid>
       <description></description>
     </item>
     
