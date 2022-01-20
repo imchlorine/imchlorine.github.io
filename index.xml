@@ -6,24 +6,14 @@
     <description>Recent content on Ricky</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>Ricky</copyright>
-    <lastBuildDate>Fri, 05 Mar 2021 16:31:20 +1100</lastBuildDate><atom:link href="https://rickyli.top/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hello</title>
-      <link>https://rickyli.top/posts/hello/</link>
-      <pubDate>Fri, 05 Mar 2021 16:31:20 +1100</pubDate>
-      
-      <guid>https://rickyli.top/posts/hello/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>Ricky</copyright><atom:link href="https://rickyli.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://rickyli.top/about/</link>
       <pubDate>Sat, 21 Sep 2019 18:28:02 +1000</pubDate>
       
       <guid>https://rickyli.top/about/</guid>
-      <description>Education  2018-2019 Master of Information Technology; Monash University; Grade:D 2012-2016 Information Engineering; Huaqiao University; Grade:D   Experience Android Developer; SoSure Pty ltd. Jan 2020 - Now   Design and build advanced applications in native Android &amp;amp; cross-platform (Flutter) Work with outside data sources and APIs Work on bug fixing and improving application performance Continuously discover, evaluate, and implement new technologies to maximize development efficiency Provide IT related support to employees in the company  Web Developer; Asiatic Consulting (Shenzhen) Co.</description>
+      <description>Education  2018-2019 Master of Information Technology; Monash University; Grade:D 2012-2016 Information Engineering; Huaqiao University; Grade:D   Experience Flutter Developer; LITT Pty ltd. Aug 2021 - Now   Developing new features and user interfaces from wireframe models Cooperating with back-end developers, designers, and the rest of the team to deliver well- architected and high-quality solutions Ensuring the best performance and user experience of the application Fixing bugs and performance problems  Android Developer; SoSure Pty ltd.</description>
     </item>
     
   </channel>

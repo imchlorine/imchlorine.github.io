@@ -2,19 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://rickyli.top/posts/hello/</loc>
-    <lastmod>2021-03-05T16:31:20+11:00</lastmod>
-  </url><url>
-    <loc>https://rickyli.top/posts/</loc>
-    <lastmod>2021-03-05T16:31:20+11:00</lastmod>
-  </url><url>
-    <loc>https://rickyli.top/</loc>
-    <lastmod>2021-03-05T16:31:20+11:00</lastmod>
-  </url><url>
     <loc>https://rickyli.top/about/</loc>
     <lastmod>2019-09-21T18:28:02+10:00</lastmod>
   </url><url>
     <loc>https://rickyli.top/categories/</loc>
+  </url><url>
+    <loc>https://rickyli.top/</loc>
   </url><url>
     <loc>https://rickyli.top/tags/</loc>
   </url>
